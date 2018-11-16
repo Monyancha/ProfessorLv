@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright 2016 Phil Shadlyn
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~    http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <color name="colorPrimary">#fff</color>
+    <color name="colorPrimaryDark">#fff</color>
+    <color name="colorAccent">#7C4DFF</color>
+
+    <color name="green_top">#388E3C</color>
+    <color name="green_bottom">#4CAF50</color>
+
+    <color name="converterListTextColor">#FFFFFFFF</color>
+
+    <color name="textSecondaryLightTheme">#36000000</color>
+    <color name="textPrimaryLightTheme">#57000000</color>
+    <color name="textSecondaryDarkTheme">#96FFFFFF</color>
+    <color name="textPrimaryDarkTheme">#FFFFFF</color>
+
+    <color name="lengthPrimary">#8BC34A</color>
+    <color name="lengthPrimaryDark">#689F38</color>
+    <color name="lengthKeypadBackground">#DCEDC8</color>
+    <color name="lengthKeypadText">#212121</color>
+
+    <color name="temperaturePrimary">#F44336</color>
+    <color name="temperaturePrimaryDark">#D32F2F</color>
+    <color name="temperatureKeypadBackground">#FFCDD2</color>
+    <color name="temperatureKeypadText">#FFFFFF</color>
+
+    <color name="massPrimary">#795548</color>
+    <color name="massPrimaryDark">#5D4037</color>
+    <color name="massKeypadBackground">#D7CCC8</color>
+    <color name="massKeypadText">#FFFFFF</color>
+
+    <color name="volumePrimary">#3F51B5</color>
+    <color name="volumePrimaryDark">#303F9F</color>
+    <color name="volumeKeypadBackground">#C5CAE9</color>
+    <color name="volumeKeypadText">#FFFFFF</color>
+
+    <color name="energyPrimary">#00BCD4</color>
+    <color name="energyPrimaryDark">#0097A7</color>
+    <color name="energyKeypadBackground">#B2EBF2</color>
+    <color name="energyKeypadText">#FFFFFF</color>
+    <color name="white">#fff</color>
+    <color name="bottomBorder">#212121</color>
+
+</resources>
+
